@@ -1,0 +1,12 @@
+12:39:42.909 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:39:42.915 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:39:53.478 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:40:20.934 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+12:40:56.107 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:40:56.113 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:41:03.785 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:41:24.027 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+12:51:11.025 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:51:11.032 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:51:18.121 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:51:35.746 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.

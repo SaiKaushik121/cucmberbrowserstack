@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-18T12:51:18 IST" name="Local" finished-at="2022-09-18T12:51:33 IST" duration-ms="14689">
+    <groups>
+    </groups>
+    <test started-at="2022-09-18T12:51:18 IST" name="LocalTest-0" finished-at="2022-09-18T12:51:30 IST" duration-ms="12577">
+      <class name="com.browserstack.LocalTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.browserstack.LocalTest@4c51bb7]" started-at="2022-09-18T12:51:18 IST" name="setUp" finished-at="2022-09-18T12:51:27 IST" duration-ms="9209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test()[pri:0, instance:com.browserstack.LocalTest@4c51bb7]" started-at="2022-09-18T12:51:27 IST" name="test" finished-at="2022-09-18T12:51:28 IST" duration-ms="1252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.browserstack.LocalTest@4c51bb7]" started-at="2022-09-18T12:51:28 IST" name="tearDown" finished-at="2022-09-18T12:51:30 IST" duration-ms="2049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.browserstack.LocalTest -->
+    </test> <!-- LocalTest-0 -->
+    <test started-at="2022-09-18T12:51:18 IST" name="LocalTest-1" finished-at="2022-09-18T12:51:31 IST" duration-ms="12744">
+      <class name="com.browserstack.LocalTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.browserstack.LocalTest@107ed6fc]" started-at="2022-09-18T12:51:18 IST" name="setUp" finished-at="2022-09-18T12:51:27 IST" duration-ms="9220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test()[pri:0, instance:com.browserstack.LocalTest@107ed6fc]" started-at="2022-09-18T12:51:27 IST" name="test" finished-at="2022-09-18T12:51:28 IST" duration-ms="1330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.browserstack.LocalTest@107ed6fc]" started-at="2022-09-18T12:51:28 IST" name="tearDown" finished-at="2022-09-18T12:51:31 IST" duration-ms="2136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.browserstack.LocalTest -->
+    </test> <!-- LocalTest-1 -->
+    <test started-at="2022-09-18T12:51:18 IST" name="LocalTest-2" finished-at="2022-09-18T12:51:33 IST" duration-ms="14689">
+      <class name="com.browserstack.LocalTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.browserstack.LocalTest@482d776b]" started-at="2022-09-18T12:51:18 IST" name="setUp" finished-at="2022-09-18T12:51:29 IST" duration-ms="11161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test()[pri:0, instance:com.browserstack.LocalTest@482d776b]" started-at="2022-09-18T12:51:29 IST" name="test" finished-at="2022-09-18T12:51:30 IST" duration-ms="1204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.browserstack.LocalTest@482d776b]" started-at="2022-09-18T12:51:30 IST" name="tearDown" finished-at="2022-09-18T12:51:33 IST" duration-ms="2245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.browserstack.LocalTest -->
+    </test> <!-- LocalTest-2 -->
+  </suite> <!-- Local -->
+</testng-results>
